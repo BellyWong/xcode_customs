@@ -1,7 +1,7 @@
 Code Snippets
 =============
 
-# test snippets (mostly from qualitycoding.org)
+#### Test snippets ( mostly from qualitycoding.org )
 `setup`
 `teardown`
 `test`
